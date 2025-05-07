@@ -1,0 +1,3 @@
+/mnt/e/DB/minisql/build/CMakeFiles/minisql.dir
+/mnt/e/DB/minisql/build/CMakeFiles/edit_cache.dir
+/mnt/e/DB/minisql/build/CMakeFiles/rebuild_cache.dir
